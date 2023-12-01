@@ -1,5 +1,5 @@
 # Aesthetica
-<a href="https://secure-ocean-28347.herokuapp.com/" data-text="Aesthetica">Click Here to Visit Aesthetica</a> Link is not currently active
+<a href="https://secure-ocean-28347.herokuapp.com/" data-text="Aesthetica"></a> 
 <br>
 
 ## Description
